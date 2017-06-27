@@ -6,6 +6,6 @@
 
 INT WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpszCmdLine, INT iCmdShow) {
 	SetProcessDpiAwareness(PROCESS_PER_MONITOR_DPI_AWARE);
-	SavePic(L"MKA_DEMO",L"a.jpg");
+	SavePic(L"a.jpg");
 	return 0;
 }

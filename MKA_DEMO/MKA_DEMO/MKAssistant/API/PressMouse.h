@@ -4,8 +4,8 @@
 //概括：点击屏幕指定位置
 //详细：延迟指定时间后，在指定误差范围内，点击屏幕的指定位置
 UINT PressMouse(
-	INT nX,
-	INT nY,
+	INT nX,//点击的x坐标
+	INT nY,//点击的y坐标
 	UINT nErrorLimit = 0,
 	BOOL bDoubleClick = FALSE,
 	UINT nL0M1R2Button = 0,

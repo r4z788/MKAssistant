@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MKA_DEMO"
+    "\\MKA_DEMO",
+    "\\MKA_DEMO\\MKAssistant",
+    "\\MKA_DEMO\\MKAssistant\\Internal"
   ],
-  "SelectedNode": "\\MKA_DEMO\\MKA_DEMO.cpp",
+  "SelectedNode": "\\MKA_DEMO\\MKAssistant\\Internal\\Function.cpp",
   "PreviewInSolutionExplorer": false
 }
