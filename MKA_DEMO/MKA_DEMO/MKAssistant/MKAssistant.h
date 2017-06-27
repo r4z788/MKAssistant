@@ -1,0 +1,9 @@
+#pragma once
+#include "API\ClickPic.h"
+#include "API\FindPic.h"
+#include "API\GetPic.h"
+#include "API\PressKeyboard.h"
+#include "API\PressMouse.h"
+#include "API\SavePic.h"
+#include "Class\POSITION.h"
+#include "Class\RGBINFO.h"

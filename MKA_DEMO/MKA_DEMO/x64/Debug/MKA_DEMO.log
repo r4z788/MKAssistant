@@ -1,0 +1,16 @@
+﻿  Function.cpp
+c:\users\soda\desktop\mka_demo\mka_demo\mkassistant\internal\function.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SavePic.cpp
+c:\users\soda\desktop\mka_demo\mka_demo\mkassistant\api\savepic.cpp(51): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  PressMouse.cpp
+  PressKeyboard.cpp
+  GetPic.cpp
+  FindPic.cpp
+c:\users\soda\desktop\mka_demo\mka_demo\mkassistant\api\findpic.cpp(56): warning C4018: '>': signed/unsigned mismatch
+  ClickPic.cpp
+  Generating Code...
+  Compiling...
+  MKA_DEMO.cpp
+  Generating Code...
+  MKA_DEMO.vcxproj -> C:\Users\SoDa\Desktop\MKA_DEMO\x64\Debug\MKA_DEMO.exe
+  MKA_DEMO.vcxproj -> C:\Users\SoDa\Desktop\MKA_DEMO\x64\Debug\MKA_DEMO.pdb (Partial PDB)
